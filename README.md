@@ -1,2 +1,1 @@
-# MERN_LMS
-MERN INTERNSHIP Group Project - LMS
+# LMS-Learning-Management-System- A learning management system built on the MERN stack. Developed with React.js, Node.js, and Express.js, our platform provides an interactive interface, straightforward course development, and robust authentication. Data is efficiently handled through MongoDB and Cloudinary. Our forward-thinking educational solution leverages HTML, CSS, React.js, Node.js, Express.js, MongoDB, Tailwind CSS, and Socket.io. Front-end :- React js, Tailwind Css Back-end :- Node js, Express js, Mongo DB Other :- Socket io, Image upload- Cloudinary #
