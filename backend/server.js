@@ -52,9 +52,10 @@ mongoose
     useUnifiedTopology: true,
   })
   .then(() => {
-    //listen for requests
-    server.listen(process.env.PORT, () => {
-      console.log("listening to port 4000");
+    // Listen for requests on the dynamically assigned port by Render
+    const port = process.env.PORT || 4000;
+    server.listen(port, () => {
+      console.log(`listening to port ${port}`);
     });
   })
   .catch((error) => {
