@@ -1,0 +1,2 @@
+# MERN_LMS
+MERN INTERNSHIP Group Project - LMS
